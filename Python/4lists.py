@@ -19,7 +19,7 @@ list.sort(reverse=True)#sorts in descending order
 print(list)
 list.reverse()#reverse
 print(list)
-list.insert(2,7)#insert element at end
+list.insert(2,7)#insert element at index given (i.e. 7 is element and 2 is position)
 print(list)
 list.remove(6)#remove first occurence of element
 print(list)
