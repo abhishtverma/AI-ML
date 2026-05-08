@@ -21,10 +21,11 @@ while count<=2:
     
     for element in range(1,6,2):#(start,stop,steps)
        print(element)
-
+       
     #pass method
     for element in range(5):
        pass     #this will pass the loop without executing anything  
 
     print("abhisht")
        
+#pass does not stop the loop and does not print anything by itself.

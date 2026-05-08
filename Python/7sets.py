@@ -23,3 +23,8 @@ print(set1.intersection(set4))#intersection of two sets
 #if we want to save two same value we will make it a string
 values={5,"5.0"}
 print(values)
+
+"""List = changeable ordered data.
+Tuple = fixed ordered data.
+Dictionary = key-value data.
+Set = unique unordered data."""
