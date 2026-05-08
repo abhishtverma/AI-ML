@@ -16,7 +16,7 @@ print(dict)
 dict["surname"]="verma"
 print(dict)
 null_dict={}
-null_dict["name"]="sadaf"
+null_dict["name"]="saprit"
 print(null_dict)
 #nesting dictionary
 dict2={

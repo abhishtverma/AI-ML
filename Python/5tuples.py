@@ -1,4 +1,4 @@
-#this is immutable and it will be in round bracket
+#this is immutable(cannnot change it elements) and it will be in round bracket
 marks=(1,3,3,5,7)
 print(marks)
 print(type(marks))
