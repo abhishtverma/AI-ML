@@ -1,4 +1,4 @@
-#function
+#function (starts with def)
 def sum(a,b):
   s=a+b
   print(s)
